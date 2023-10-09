@@ -1,2 +1,2 @@
-# vm-tools
-VM Tools is a collection of useful software for Virtual Machines
+# VM Tools
+Collection of tools for Virtual Machines
